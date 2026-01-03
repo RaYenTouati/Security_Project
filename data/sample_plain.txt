@@ -1,0 +1,11 @@
+La crypto-analyse du chiffre de Vigenère est un classique. Il faut trouver la longueur de la clé puis faire une analyse de fréquences.
+Cryptography is the practice and study of techniques for secure communication in the presence of third parties called adversaries.
+Les sanglots longs des violons de l'automne blessent mon coeur d'une langueur monotone.
+The quick brown fox jumps over the lazy dog.
+Aujourd'hui, maman est morte. Ou peut-être hier, je ne sais pas. J'ai reçu un télégramme de l'asile : « Mère décédée. Enterrement demain. Sentiments distingués. » Cela ne veut rien dire. C'était peut-être hier.
+All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+Je suis le ténébreux, - le veuf, - l'inconsolé,
+Le prince d'Aquitaine à la tour abolie :
+Ma seule étoile est morte, - et mon luth constellé
+Porte le soleil noir de la Mélancolie.
+It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness.
